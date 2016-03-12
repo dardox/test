@@ -1,3 +1,3 @@
 FIrst commit
 
-This is a hotfix text
+This is a text for the feature version
